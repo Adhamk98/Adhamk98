@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Adhamk98
+- 👀 I’m interested in programing 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on any project for more experience 
+- 📫 How to reach me adhamkhalil98@gamil.com
